@@ -1,0 +1,10 @@
+{
+    "liveServer.settings.port": 3001,
+    "python-envs.pythonProjects": [
+        {
+            "path": "sportstore-v2/assets",
+            "envManager": "ms-python.python:venv",
+            "packageManager": "ms-python.python:pip"
+        }
+    ]
+}
